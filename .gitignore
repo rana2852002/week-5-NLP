@@ -1,0 +1,9 @@
+.venv/
+outputs/
+__pycache__/
+.DS_Store
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.safetensors
